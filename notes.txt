@@ -1,0 +1,1 @@
+aws s3 d:/Working/AWS-Training/KL/AWS Lambda/section-7-sandbox-basics/sandbox/  s3://kldemo --recursive
